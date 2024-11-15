@@ -1,0 +1,32 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+legend{
+    background-color: #66705a;
+    width: auto;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+fieldset{
+    border:  2px solid #66705a;
+    border-radius: 5px;
+}
+.qrcode > img{
+    width: 250px;
+}
+
+.carousel{
+    height: 600px;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+}
+
+.pagamento{
+    color: red;
+}
